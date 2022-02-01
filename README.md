@@ -7,13 +7,13 @@
 
 ## Key Features:
 
-    🟢 In Graph-CMS admin site we can create post, categories, check the comment.
+    🟢 In Graph-CMS side we can create post, categories, check the comment.
     
     🟢 Each and Every content and feature can be controlled from Graph-CMS panel. 
     
     🟢 NextJs with GraphQL works like magic.
        
-    🟢 Optemize quality is way too, one of the fastest site I've ever made.
+    🟢 Optemize quality is way too good, one of the fastest site I've ever made.
     
    ### Build Showcase:
     
