@@ -1,5 +1,6 @@
 # NextJs-GraphQL-blog-site
 
+## see the project [here](https://my-tutorial-blog.vercel.app/).
 
 ### 1. [Key Features](#key-features) 
 ### 2. [Technologies I've used](#technologies-ive-used)
