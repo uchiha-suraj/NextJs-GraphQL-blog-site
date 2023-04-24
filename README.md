@@ -16,6 +16,8 @@
        
     🟢 Optemize quality is way too good, one of the fastest site I've ever made.
     
+    🟢 Full server side rendered application.
+    
    ### Build Showcase:
     
   ![NextJs-GraphQL-blog-site](https://user-images.githubusercontent.com/46050946/151969685-73cfb8fd-f079-40ee-8bdc-6b0eee54b6cf.png)
